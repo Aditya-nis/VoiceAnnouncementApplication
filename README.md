@@ -206,13 +206,13 @@ You are free to use, modify, and distribute this application.
 - Playback queue view and audio preview options.
 
 📸 Screenshots (Optional)
-================================================================================
-![picture 1](https://github.com/user-attachments/assets/1a843662-81b6-41e9-a429-617cb2dabb4e)
-![picture 2](https://github.com/user-attachments/assets/a8946caa-1b15-4e9d-af66-841d43b9cb4f)
-![picture 3](https://github.com/user-attachments/assets/d9dbe819-7d7d-408e-bb04-40aba838a195)
+=======================================================================
+![picture 1](https://github.com/user-attachments/assets/04bf8794-1329-49b8-8405-9346db377055)
+![picture 2](https://github.com/user-attachments/assets/e9972c09-ee30-422a-a154-837ccf985b42)
+![picture 3](https://github.com/user-attachments/assets/5ee2f4c7-ccef-4bdf-8fac-9054f445d7b7)
+![picture 4](https://github.com/user-attachments/assets/de4b9fa2-75c7-48cb-acb8-67c6f3796d14)
+![picture 5](https://github.com/user-attachments/assets/317ed80c-a98f-40d1-89a9-685f1b9c7bf0)
 
-![picture 4](https://github.com/user-attachments/assets/c4ccf8a6-2e71-4c5a-8779-653b06b6bed1)
-![picture 5](https://github.com/user-attachments/assets/edadee2d-9bee-4855-9d0c-c2c277d0017e)
 
 
 📄 Third-Party Dependencies Licenses
